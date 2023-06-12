@@ -115,15 +115,15 @@ export default function AllDocumentsCopy () {
     },
     {
       type: "file",
-      name: "ministry of health"
+      name: "transcript"
     },
     {
       type: "file",
-      name: "State house"
+      name: "results"
     },
     {
       type: "file",
-      name: "GPA"
+      name: "resume"
     },
     {
       type: "file",
