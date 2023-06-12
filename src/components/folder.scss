@@ -1,0 +1,15 @@
+.folder {
+    list-style: none;
+    &__folder-icon {
+        width: 6rem;
+        height: 6rem;
+        display: flex;
+        list-style: none;
+    }
+
+    .folder__icon-name {
+        text-transform: capitalize;
+        text-align: center;
+        list-style: none;
+    }
+}
